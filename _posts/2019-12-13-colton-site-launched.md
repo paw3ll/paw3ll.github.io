@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Colton, Launches Site"
+date: 2019-12-13
 ---
 
-Well. Finally got around to putting this old website together. 
-Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
-It actually is a lot easier than I thought it was going to be.
+I have been putting off creation of this site for a while now. I've moved away from my previous site of https://coltonzeinner.weebly.com/
+I intend to be editing, learning and creating on this site much more over the years.
+
+- powered by [Jekyll](http://jekyllrb.com),
+using Markdown to author my posts. 
