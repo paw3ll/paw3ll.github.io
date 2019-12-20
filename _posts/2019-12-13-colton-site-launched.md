@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-blog
 title: "Launched Site"
 date: 2019-12-13
 ---
